@@ -46,5 +46,5 @@ Step5: run ngh cmd.
 Step6: Check the url you mentioned.
 
 
-![alt text](screenshots/capture.png "Output of the above code.")
-![alt text](screenshots/capture1.png "Output of the above code.")
+![alt text](screenshots/Capture.PNG "Output of the above code.")
+![alt text](screenshots/Capture1.PNG "Output of the above code.")
